@@ -5,7 +5,6 @@ seaborn
 sklearn
 wordcloud
 nltk
-PIL
 spacy
 es_core_news_sm
 gensim
