@@ -8,5 +8,4 @@ nltk
 spacy
 gensim
 textblob
-urllib
 voila
