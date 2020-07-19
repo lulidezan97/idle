@@ -1,7 +1,6 @@
 pandas
 numpy
 matplotlib
-matplotlib.pyplot
 seaborn
 sklearn
 wordcloud
@@ -14,5 +13,4 @@ es_core_news_sm
 gensim
 textblob
 urllib
-urllib.request
 voila
