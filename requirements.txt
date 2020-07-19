@@ -5,7 +5,6 @@ seaborn
 sklearn
 wordcloud
 nltk
-string
 collections
 PIL
 spacy
